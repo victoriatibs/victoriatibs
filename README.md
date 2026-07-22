@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<img src="readme_background.png" alt="me" width="200" height="200"> 
+<img src="readme_background.png" alt="me" width="400" height="300"> 
 
 ## ✨ About Me
 
