@@ -6,4 +6,4 @@
 - <img src="engineering.svg" alt="engineering" width="24" height="24"> Computer Science Student  
 - <img src="calculator.png" alt="calculator" width="24" height="24"> Interested in Sustainable IoT, Networks and Trinkets figurines
 - <img src="mouse (1).svg" alt="mouse" width="24" height="24"> Tech enthusiast & creative developer
-- <img src="github.svg" alt="mouse" width="24" height="24"> Follow me <img src="bear.svg" alt="bear" width="24" height="24">
+- <img src="github.svg" alt="mouse" width="24" height="24"> Follow me! :)
