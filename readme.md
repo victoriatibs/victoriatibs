@@ -1,14 +1,3 @@
-![Victoria Banner](Czesc,%20I'm%20Victoria%20(2)_banner.png)
-
-<style>
-  .about-section {
-    background: linear-gradient(135deg, #ffd6e8 0%, #fff5f7 100%);
-    border-radius: 15px;
-    padding: 30px;
-    margin: 20px 0;
-    border: 2px solid #ffb3d9;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
 
   .about-section h2 {
     color: #ff1493;
@@ -40,7 +29,7 @@
 </style>
 
 <div class="about-section">
-  <h2>✨ About Me</h2>
+  <h2>✨About Me</h2>
   
   <div class="about-item">
     <img src="bow.svg" alt="bow">
