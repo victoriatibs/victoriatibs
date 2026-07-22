@@ -38,26 +38,6 @@
   }
 </style>
 
-<div class="about-section">
-  <h2>✨About Me</h2>
-  
-  <div class="about-item">
-    <img src="bow.svg" alt="bow">
-    <span class="about-item-text">Spanish/Bolivian/Polish girl from Malaga, Spain</span>
-  </div>
-
-  <div class="about-item">
-    <img src="444ea.png" alt="emoji">
-    <span class="about-item-text">Computer Science Student</span>
-  </div>
-
-  <div class="about-item">
-    <img src="calculator.png" alt="calculator">
-    <span class="about-item-text">Interested in Sustainable IoT, Networks and Trinkets figurines</span>
-  </div>
-
-  <div class="about-item">
-    <img src="mouse.svg" alt="mouse">
     <span class="about-item-text">Tech enthusiast & creative developer</span>
   </div>
 </div>
